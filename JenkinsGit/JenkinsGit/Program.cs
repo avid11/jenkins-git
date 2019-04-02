@@ -10,7 +10,11 @@ namespace JenkinsGit
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Console.WriteLine("Hello Devops");
+=======
+            Console.WriteLine("Hello World");
+>>>>>>> ebe94b7fa81dfb2d551af27eef621894a0b6ce78
         }
     }
 }
